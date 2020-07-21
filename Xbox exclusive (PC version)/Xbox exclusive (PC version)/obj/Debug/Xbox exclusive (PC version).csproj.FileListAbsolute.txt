@@ -1,0 +1,9 @@
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\bin\Debug\Xbox exclusive (PC version).exe.config
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\bin\Debug\Xbox exclusive (PC version).exe
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\bin\Debug\Xbox exclusive (PC version).pdb
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox exclusive (PC version).csprojAssemblyReference.cache
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox_exclusive__PC_version_.Form1.resources
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox_exclusive__PC_version_.Properties.Resources.resources
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox exclusive (PC version).csproj.GenerateResource.cache
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox exclusive (PC version).exe
+F:\Xbox exclusive (PC version)\Xbox exclusive (PC version)\obj\Debug\Xbox exclusive (PC version).pdb
